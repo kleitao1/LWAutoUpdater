@@ -1,1 +1,2 @@
+Test,TestSite,TestTerminal,1.1.1.1,Test,2024-06-16 20:15:08.443,Idle\n
 Internal,MCW1538,KIOSK1,24.2.4.1,LWKiosk,2024-06-16 20:15:08.443,Update\n
